@@ -7,6 +7,9 @@ import PrivateRoute from "./components/PrivateRoute";
 import ProjectData from "./pages/Project Components/ProjectData";
 import ProfileCreate from "./pages/HomeComponents/Profile components/ProfileCreate";
 import MyProjects from "./pages/HomeComponents/Profile components/MyProjects";
+import axios from 'axios';
+axios.defaults.baseURL = 'https://devconnect-backend.onrender.com';
+
 
 
 function App() {
