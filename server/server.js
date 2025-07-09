@@ -9,8 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 const app = express();
 app.use(cors({
-  origin: 'https://devconnect-sable.vercel.app',
-  credentials: true
+  origin: '*'
 }));
 app.use(express.json());
 
