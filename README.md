@@ -31,7 +31,7 @@ DevConnect is a full-stack MERN (MongoDB, Express.js, React, Node.js) web app th
 
 ### 1. Clone the Repo
 
-git clone https://github.com/your-username/devconnect.git
+git clone https://github.com/code-here7/DevConnect.git
 cd devconnect
 
 2️⃣ Setup & Run the Backend
@@ -57,12 +57,6 @@ npm start
 
 
 Your React app will run.
-
-## 🌍 Deployment
-
-- **Frontend (Vercel)**: [https://your-vercel-app-url.vercel.app](#)
-- **Backend (Render)**: [https://your-render-app-url.onrender.com](#)
-
 
 🧠 Made by
 Yashasviny Verma
