@@ -57,7 +57,7 @@ npm start
 
 🌍 Deployment
 Frontend (Vercel): https://devconnect-dy3gok7mc-code-here7s-projects.vercel.app/
-Backend (Render): 
+Backend (Render): https://devconnect-backend-dmm2.onrender.com
 
 Your React app will run.
 
