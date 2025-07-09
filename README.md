@@ -55,6 +55,9 @@ cd client
 npm install
 npm start
 
+🌍 Deployment
+Frontend (Vercel): https://devconnect-dy3gok7mc-code-here7s-projects.vercel.app/
+Backend (Render): 
 
 Your React app will run.
 
