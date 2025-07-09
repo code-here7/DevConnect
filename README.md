@@ -58,6 +58,24 @@ npm start
 🌍 Deployment
 Frontend (Vercel): https://devconnect-dy3gok7mc-code-here7s-projects.vercel.app/
 Backend (Render): https://devconnect-backend-dmm2.onrender.com
+⚠️ On free-tier Render, backend may take 20–30s to wake up and rate-limit excessive requests.
+
+
+## 🧪 Test Credentials
+
+Use the following credentials to log in and explore the app:
+
+**Email:** `zen.carter@dev.com`  
+**Password:** `12345`
+
+or 
+
+**Email:** `emily.carter@example.com`  
+**Password:** `12345`
+
+> _Or, feel free to sign up with your own account._
+
+
 
 Your React app will run.
 
